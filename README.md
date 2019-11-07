@@ -1,5 +1,7 @@
 # JavaScript Engine Benchmark for React Native
 
+English | [简体中文](README_zh-CN.md)
+
 ## Measure Result
 
 [The result will keep to be updated at Google SpreadSheets](https://docs.google.com/spreadsheets/d/1uce3WZ9IaAEUu6Owj3eXEuZb25PDi6ZcgUVV2i500S0/edit#gid=1258377944)

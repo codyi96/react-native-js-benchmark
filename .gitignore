@@ -59,8 +59,12 @@ buck-out/
 /ios/Pods/
 
 # JS dist
-js_dist/
+js_dist/*
 
 # Python bytecode cache
 *.pyc
 __pycache__
+
+# VSCode
+.project
+.settings/
