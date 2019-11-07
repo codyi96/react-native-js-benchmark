@@ -59,8 +59,7 @@ buck-out/
 /ios/Pods/
 
 # JS dist
-js_dist/*
-!.gitkeep
+js_dist/
 
 # Python bytecode cache
 *.pyc
