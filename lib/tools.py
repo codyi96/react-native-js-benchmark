@@ -53,7 +53,6 @@ class AdbTool:
     @classmethod
     def stop_apps(cls):
         cls.stop_app('jsc')
-        cls.stop_app('v8')
         cls.stop_app('hermes')
 
     @classmethod
